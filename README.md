@@ -1,0 +1,1 @@
+This is Suzie's first git project!
